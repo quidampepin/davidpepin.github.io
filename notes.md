@@ -1,8 +1,5 @@
 
 
----
-layout: default
----
 <h1>Notes</h1>
 <div class="posts">
   {% for post in site.categories.Notes %}
